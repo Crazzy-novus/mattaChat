@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712526065176",
+    "project_id": "matta-chat-bba13",
+    "storage_bucket": "matta-chat-bba13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712526065176:android:6415b834e4a5517c621d6d",
+        "android_client_info": {
+          "package_name": "com.example.mattachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPOfhrVkO3bmZQtaHEfndQGmSVBFSkQTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
